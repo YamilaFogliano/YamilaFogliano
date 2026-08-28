@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola y bienvenidos a mi perfil de GitHub! 👋<br><br>Soy María Yamila Fogliano, estudiante de la Licenciatura en Ciberseguridad y Tecnicatura en Redes y Operaciones Informáticas en la Universidad Nacional de Hurlingham (UNAHUR). Desde que me adentré en el mundo de la tecnología, descubrí que mi auténtica vocación está en garantizar la calidad, estabilidad y seguridad de los sistemas.<br><br>Tengo un perfil orientado a DevOps, pero mi verdadera pasión es el Testing (tanto manual como automatizado). Esta combinación me permite entender la tecnología desde una perspectiva integral: desde la infraestructura de redes y la seguridad de la información hasta la automatización de pruebas End-to-End en el ciclo de desarrollo de software.<br><br>La tecnología evoluciona a un ritmo acelerado, y por eso me mantengo en constante aprendizaje. Mi curiosidad me impulsa a explorar nuevas herramientas, optimizar procesos de QA y abordar problemas complejos con un enfoque analítico, creativo y estructurado.<br><br>Para mí, la colaboración es fundamental. Disfruto trabajar en equipo, aprender de otros profesionales y compartir conocimientos para construir soluciones robustas. Creo firmemente que un software de calidad no solo debe ser funcional, sino también seguro, escalable y eficiente.<br><br>Si buscas a alguien motivada, apasionada por la automatización y la ciberseguridad, y con muchas ganas de aportar valor a proyectos desafiantes, ¡estás en el lugar correcto!<br><br>Gracias por visitar mi perfil. ¡No dudes en contactarme si deseas saber más sobre mí o colaborar en algún proyecto!<br><br>¡Construyamos software más seguro y confiable, prueba a prueba! 🚀<br><br>¡Saludos desde Argentina! 🇦🇷
 
 
@@ -7,6 +7,6 @@
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=YamilaFogliano&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YamilaFogliano&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YamilaFogliano&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
